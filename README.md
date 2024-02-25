@@ -1,4 +1,4 @@
 <html>
-<h1> Esta é minha primeira página com GitHub Pages </h1>
-<p>Obrigado, GitHub!</p>
+<h1> Esta é primeira página da Bruna com GitHub Pages </h1>
+<p>Obrigada, GitHub!</p>
 </html>
